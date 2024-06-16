@@ -8,7 +8,10 @@
 
 1. Установите необходимые зависимости:
     ```bash
-    pip install -r requirements.txt
+    - Python 3.x
+    - Flask (version x.x.x)
+    - SQLAlchemy (version x.x.x)
+    - Other libraries, if applicable
     ```
 
 2. Настройте файл `config.ini`:
