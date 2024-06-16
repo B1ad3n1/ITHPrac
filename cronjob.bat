@@ -1,0 +1,1 @@
+schtasks /create /tn "LogParserTask" /tr "python C:\path\to\logwriter.py parse" /sc daily /st 00:00
